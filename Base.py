@@ -2,7 +2,14 @@
 """
 Created on Tue Apr 11 07:55:55 2017
 
-@author: GDE
+@author: 
+"""
+
+"""
+Any line win or Expanded Pay will advance the Speed Spins Active Reels two reels to the right and may increase the Speed Spins
+Multiplier up to 5x.
+This is the reason for the 9 different reels as well as the multiplier and the nested calculations.
+
 """
 
 import os
